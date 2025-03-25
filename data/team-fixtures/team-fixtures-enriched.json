@@ -1,0 +1,2994 @@
+{
+    "BRO": {
+        "byes": [
+            12,
+            15,
+            20
+        ],
+        "gap_between_r0_b1": 11,
+        "gap_between_b1_b2": 3,
+        "gap_between_b2_b3": 5,
+        "gap_between_b3_and_end": 7,
+        "total_gap_length": 19,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 11
+            },
+            "12": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 14
+            },
+            "15": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 17
+            },
+            "18": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "BUL",
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 19
+            },
+            "20": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 27
+            }
+        }
+    },
+    "BUL": {
+        "byes": [
+            6,
+            13,
+            16
+        ],
+        "gap_between_r0_b1": 5,
+        "gap_between_b1_b2": 7,
+        "gap_between_b2_b3": 3,
+        "gap_between_b3_and_end": 11,
+        "total_gap_length": 15,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 5
+            },
+            "6": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 11
+            },
+            "12": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "DOL",
+                "round": 12
+            },
+            "13": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 14
+            },
+            "15": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "STH",
+                "round": 15
+            },
+            "16": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 17
+            },
+            "18": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "BRO",
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 27
+            }
+        }
+    },
+    "CBR": {
+        "byes": [
+            15,
+            19,
+            24
+        ],
+        "gap_between_r0_b1": 14,
+        "gap_between_b1_b2": 4,
+        "gap_between_b2_b3": 5,
+        "gap_between_b3_and_end": 3,
+        "total_gap_length": 23,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 11
+            },
+            "12": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "NZL",
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 14
+            },
+            "15": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 17
+            },
+            "18": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "STG",
+                "round": 18
+            },
+            "19": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 23
+            },
+            "24": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 27
+            }
+        }
+    },
+    "DOL": {
+        "byes": [
+            13,
+            18,
+            21
+        ],
+        "gap_between_r0_b1": 12,
+        "gap_between_b1_b2": 5,
+        "gap_between_b2_b3": 3,
+        "gap_between_b3_and_end": 6,
+        "total_gap_length": 20,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 11
+            },
+            "12": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "BUL",
+                "round": 12
+            },
+            "13": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 14
+            },
+            "15": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "NQC",
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 17
+            },
+            "18": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 20
+            },
+            "21": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 27
+            }
+        }
+    },
+    "GCT": {
+        "byes": [
+            1,
+            12,
+            18
+        ],
+        "gap_between_r0_b1": 0,
+        "gap_between_b1_b2": 11,
+        "gap_between_b2_b3": 6,
+        "gap_between_b3_and_end": 9,
+        "total_gap_length": 17,
+        "schedule": {
+            "1": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 11
+            },
+            "12": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 14
+            },
+            "15": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "MNL",
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 17
+            },
+            "18": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 27
+            }
+        }
+    },
+    "MEL": {
+        "byes": [
+            2,
+            12,
+            15
+        ],
+        "gap_between_r0_b1": 1,
+        "gap_between_b1_b2": 10,
+        "gap_between_b2_b3": 3,
+        "gap_between_b3_and_end": 12,
+        "total_gap_length": 14,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 1
+            },
+            "2": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 11
+            },
+            "12": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 14
+            },
+            "15": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 17
+            },
+            "18": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "NQC",
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 27
+            }
+        }
+    },
+    "MNL": {
+        "byes": [
+            9,
+            16,
+            19
+        ],
+        "gap_between_r0_b1": 8,
+        "gap_between_b1_b2": 7,
+        "gap_between_b2_b3": 3,
+        "gap_between_b3_and_end": 8,
+        "total_gap_length": 18,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 8
+            },
+            "9": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 11
+            },
+            "12": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "PAR",
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 14
+            },
+            "15": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "GCT",
+                "round": 15
+            },
+            "16": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 17
+            },
+            "18": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "STH",
+                "round": 18
+            },
+            "19": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 27
+            }
+        }
+    },
+    "NEW": {
+        "byes": [
+            4,
+            18,
+            22
+        ],
+        "gap_between_r0_b1": 3,
+        "gap_between_b1_b2": 14,
+        "gap_between_b2_b3": 4,
+        "gap_between_b3_and_end": 5,
+        "total_gap_length": 21,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 3
+            },
+            "4": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 11
+            },
+            "12": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "PTH",
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 14
+            },
+            "15": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "SYD",
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 17
+            },
+            "18": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 21
+            },
+            "22": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 27
+            }
+        }
+    },
+    "NQC": {
+        "byes": [
+            7,
+            12,
+            27
+        ],
+        "gap_between_r0_b1": 6,
+        "gap_between_b1_b2": 5,
+        "gap_between_b2_b3": 15,
+        "gap_between_b3_and_end": 0,
+        "total_gap_length": 26,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 6
+            },
+            "7": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 11
+            },
+            "12": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 14
+            },
+            "15": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "DOL",
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 17
+            },
+            "18": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "MEL",
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 26
+            },
+            "27": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 27
+            }
+        }
+    },
+    "NZL": {
+        "byes": [
+            5,
+            15,
+            18
+        ],
+        "gap_between_r0_b1": 4,
+        "gap_between_b1_b2": 10,
+        "gap_between_b2_b3": 3,
+        "gap_between_b3_and_end": 9,
+        "total_gap_length": 17,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 4
+            },
+            "5": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 11
+            },
+            "12": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "CBR",
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 14
+            },
+            "15": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 17
+            },
+            "18": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 27
+            }
+        }
+    },
+    "PAR": {
+        "byes": [
+            8,
+            15,
+            18
+        ],
+        "gap_between_r0_b1": 7,
+        "gap_between_b1_b2": 7,
+        "gap_between_b2_b3": 3,
+        "gap_between_b3_and_end": 9,
+        "total_gap_length": 17,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 7
+            },
+            "8": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 11
+            },
+            "12": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "MNL",
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 14
+            },
+            "15": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 17
+            },
+            "18": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 27
+            }
+        }
+    },
+    "PTH": {
+        "byes": [
+            11,
+            15,
+            18
+        ],
+        "gap_between_r0_b1": 10,
+        "gap_between_b1_b2": 4,
+        "gap_between_b2_b3": 3,
+        "gap_between_b3_and_end": 9,
+        "total_gap_length": 17,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 10
+            },
+            "11": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 11
+            },
+            "12": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "NEW",
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 14
+            },
+            "15": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 17
+            },
+            "18": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 27
+            }
+        }
+    },
+    "SHA": {
+        "byes": [
+            13,
+            18,
+            25
+        ],
+        "gap_between_r0_b1": 12,
+        "gap_between_b1_b2": 5,
+        "gap_between_b2_b3": 7,
+        "gap_between_b3_and_end": 2,
+        "total_gap_length": 24,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 11
+            },
+            "12": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "SYD",
+                "round": 12
+            },
+            "13": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 14
+            },
+            "15": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "STG",
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 17
+            },
+            "18": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 24
+            },
+            "25": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 27
+            }
+        }
+    },
+    "STG": {
+        "byes": [
+            3,
+            12,
+            16
+        ],
+        "gap_between_r0_b1": 2,
+        "gap_between_b1_b2": 9,
+        "gap_between_b2_b3": 4,
+        "gap_between_b3_and_end": 11,
+        "total_gap_length": 15,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 2
+            },
+            "3": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 11
+            },
+            "12": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 14
+            },
+            "15": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "SHA",
+                "round": 15
+            },
+            "16": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 17
+            },
+            "18": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "CBR",
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 27
+            }
+        }
+    },
+    "STH": {
+        "byes": [
+            12,
+            19,
+            26
+        ],
+        "gap_between_r0_b1": 11,
+        "gap_between_b1_b2": 7,
+        "gap_between_b2_b3": 7,
+        "gap_between_b3_and_end": 1,
+        "total_gap_length": 25,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "WST",
+                "round": 11
+            },
+            "12": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 14
+            },
+            "15": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "BUL",
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 17
+            },
+            "18": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "MNL",
+                "round": 18
+            },
+            "19": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 25
+            },
+            "26": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SYD",
+                "round": 27
+            }
+        }
+    },
+    "SYD": {
+        "byes": [
+            10,
+            14,
+            17
+        ],
+        "gap_between_r0_b1": 9,
+        "gap_between_b1_b2": 4,
+        "gap_between_b2_b3": 3,
+        "gap_between_b3_and_end": 10,
+        "total_gap_length": 16,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 9
+            },
+            "10": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 11
+            },
+            "12": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "SHA",
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 13
+            },
+            "14": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 14
+            },
+            "15": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "NEW",
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 16
+            },
+            "17": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 17
+            },
+            "18": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "WST",
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 22
+            },
+            "23": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 27
+            }
+        }
+    },
+    "WST": {
+        "byes": [
+            12,
+            15,
+            23
+        ],
+        "gap_between_r0_b1": 11,
+        "gap_between_b1_b2": 3,
+        "gap_between_b2_b3": 8,
+        "gap_between_b3_and_end": 4,
+        "total_gap_length": 22,
+        "schedule": {
+            "1": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 1
+            },
+            "2": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 2
+            },
+            "3": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "DOL",
+                "round": 3
+            },
+            "4": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 4
+            },
+            "5": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BRO",
+                "round": 5
+            },
+            "6": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NEW",
+                "round": 6
+            },
+            "7": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PAR",
+                "round": 7
+            },
+            "8": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "SHA",
+                "round": 8
+            },
+            "9": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STG",
+                "round": 9
+            },
+            "10": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MEL",
+                "round": 10
+            },
+            "11": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "STH",
+                "round": 11
+            },
+            "12": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 12
+            },
+            "13": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 13
+            },
+            "14": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 14
+            },
+            "15": {
+                "is_bye": true,
+                "is_origin": true,
+                "opp": null,
+                "round": 15
+            },
+            "16": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 16
+            },
+            "17": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 17
+            },
+            "18": {
+                "is_bye": false,
+                "is_origin": true,
+                "opp": "SYD",
+                "round": 18
+            },
+            "19": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NZL",
+                "round": 19
+            },
+            "20": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 20
+            },
+            "21": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "PTH",
+                "round": 21
+            },
+            "22": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "BUL",
+                "round": 22
+            },
+            "23": {
+                "is_bye": true,
+                "is_origin": false,
+                "opp": null,
+                "round": 23
+            },
+            "24": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "MNL",
+                "round": 24
+            },
+            "25": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "NQC",
+                "round": 25
+            },
+            "26": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "CBR",
+                "round": 26
+            },
+            "27": {
+                "is_bye": false,
+                "is_origin": false,
+                "opp": "GCT",
+                "round": 27
+            }
+        }
+    }
+}

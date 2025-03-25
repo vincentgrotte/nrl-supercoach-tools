@@ -1,0 +1,1668 @@
+{
+    "BRO": [
+        {
+            "opp": "SYD",
+            "round": 1
+        },
+        {
+            "opp": "CBR",
+            "round": 2
+        },
+        {
+            "opp": "NQC",
+            "round": 3
+        },
+        {
+            "opp": "DOL",
+            "round": 4
+        },
+        {
+            "opp": "WST",
+            "round": 5
+        },
+        {
+            "opp": "SYD",
+            "round": 6
+        },
+        {
+            "opp": "NZL",
+            "round": 7
+        },
+        {
+            "opp": "BUL",
+            "round": 8
+        },
+        {
+            "opp": "PTH",
+            "round": 9
+        },
+        {
+            "opp": "STH",
+            "round": 10
+        },
+        {
+            "opp": "STG",
+            "round": 11
+        },
+        {
+            "opp": "MNL",
+            "round": 13
+        },
+        {
+            "opp": "GCT",
+            "round": 14
+        },
+        {
+            "opp": "SHA",
+            "round": 16
+        },
+        {
+            "opp": "NZL",
+            "round": 17
+        },
+        {
+            "opp": "BUL",
+            "round": 18
+        },
+        {
+            "opp": "GCT",
+            "round": 19
+        },
+        {
+            "opp": "PAR",
+            "round": 21
+        },
+        {
+            "opp": "STH",
+            "round": 22
+        },
+        {
+            "opp": "MEL",
+            "round": 23
+        },
+        {
+            "opp": "DOL",
+            "round": 24
+        },
+        {
+            "opp": "NEW",
+            "round": 25
+        },
+        {
+            "opp": "NQC",
+            "round": 26
+        },
+        {
+            "opp": "MEL",
+            "round": 27
+        }
+    ],
+    "BUL": [
+        {
+            "opp": "STG",
+            "round": 1
+        },
+        {
+            "opp": "GCT",
+            "round": 2
+        },
+        {
+            "opp": "PAR",
+            "round": 3
+        },
+        {
+            "opp": "SHA",
+            "round": 4
+        },
+        {
+            "opp": "NEW",
+            "round": 5
+        },
+        {
+            "opp": "STH",
+            "round": 7
+        },
+        {
+            "opp": "BRO",
+            "round": 8
+        },
+        {
+            "opp": "GCT",
+            "round": 9
+        },
+        {
+            "opp": "CBR",
+            "round": 10
+        },
+        {
+            "opp": "SYD",
+            "round": 11
+        },
+        {
+            "opp": "DOL",
+            "round": 12
+        },
+        {
+            "opp": "PAR",
+            "round": 14
+        },
+        {
+            "opp": "STH",
+            "round": 15
+        },
+        {
+            "opp": "PTH",
+            "round": 17
+        },
+        {
+            "opp": "BRO",
+            "round": 18
+        },
+        {
+            "opp": "NQC",
+            "round": 19
+        },
+        {
+            "opp": "STG",
+            "round": 20
+        },
+        {
+            "opp": "MNL",
+            "round": 21
+        },
+        {
+            "opp": "WST",
+            "round": 22
+        },
+        {
+            "opp": "NZL",
+            "round": 23
+        },
+        {
+            "opp": "SYD",
+            "round": 24
+        },
+        {
+            "opp": "MEL",
+            "round": 25
+        },
+        {
+            "opp": "PTH",
+            "round": 26
+        },
+        {
+            "opp": "SHA",
+            "round": 27
+        }
+    ],
+    "CBR": [
+        {
+            "opp": "NZL",
+            "round": 1
+        },
+        {
+            "opp": "BRO",
+            "round": 2
+        },
+        {
+            "opp": "MNL",
+            "round": 3
+        },
+        {
+            "opp": "NQC",
+            "round": 4
+        },
+        {
+            "opp": "SHA",
+            "round": 5
+        },
+        {
+            "opp": "PAR",
+            "round": 6
+        },
+        {
+            "opp": "GCT",
+            "round": 7
+        },
+        {
+            "opp": "DOL",
+            "round": 8
+        },
+        {
+            "opp": "MEL",
+            "round": 9
+        },
+        {
+            "opp": "BUL",
+            "round": 10
+        },
+        {
+            "opp": "GCT",
+            "round": 11
+        },
+        {
+            "opp": "NZL",
+            "round": 12
+        },
+        {
+            "opp": "SYD",
+            "round": 13
+        },
+        {
+            "opp": "STH",
+            "round": 14
+        },
+        {
+            "opp": "WST",
+            "round": 16
+        },
+        {
+            "opp": "NEW",
+            "round": 17
+        },
+        {
+            "opp": "STG",
+            "round": 18
+        },
+        {
+            "opp": "PAR",
+            "round": 20
+        },
+        {
+            "opp": "NEW",
+            "round": 21
+        },
+        {
+            "opp": "STG",
+            "round": 22
+        },
+        {
+            "opp": "MNL",
+            "round": 23
+        },
+        {
+            "opp": "PTH",
+            "round": 25
+        },
+        {
+            "opp": "WST",
+            "round": 26
+        },
+        {
+            "opp": "DOL",
+            "round": 27
+        }
+    ],
+    "DOL": [
+        {
+            "opp": "STH",
+            "round": 1
+        },
+        {
+            "opp": "NEW",
+            "round": 2
+        },
+        {
+            "opp": "WST",
+            "round": 3
+        },
+        {
+            "opp": "BRO",
+            "round": 4
+        },
+        {
+            "opp": "GCT",
+            "round": 5
+        },
+        {
+            "opp": "PTH",
+            "round": 6
+        },
+        {
+            "opp": "MEL",
+            "round": 7
+        },
+        {
+            "opp": "CBR",
+            "round": 8
+        },
+        {
+            "opp": "SYD",
+            "round": 9
+        },
+        {
+            "opp": "PAR",
+            "round": 10
+        },
+        {
+            "opp": "NZL",
+            "round": 11
+        },
+        {
+            "opp": "BUL",
+            "round": 12
+        },
+        {
+            "opp": "STG",
+            "round": 14
+        },
+        {
+            "opp": "NQC",
+            "round": 15
+        },
+        {
+            "opp": "NEW",
+            "round": 16
+        },
+        {
+            "opp": "STH",
+            "round": 17
+        },
+        {
+            "opp": "SHA",
+            "round": 19
+        },
+        {
+            "opp": "NQC",
+            "round": 20
+        },
+        {
+            "opp": "NZL",
+            "round": 22
+        },
+        {
+            "opp": "SYD",
+            "round": 23
+        },
+        {
+            "opp": "BRO",
+            "round": 24
+        },
+        {
+            "opp": "MNL",
+            "round": 25
+        },
+        {
+            "opp": "GCT",
+            "round": 26
+        },
+        {
+            "opp": "CBR",
+            "round": 27
+        }
+    ],
+    "GCT": [
+        {
+            "opp": "BUL",
+            "round": 2
+        },
+        {
+            "opp": "NEW",
+            "round": 3
+        },
+        {
+            "opp": "SYD",
+            "round": 4
+        },
+        {
+            "opp": "DOL",
+            "round": 5
+        },
+        {
+            "opp": "STG",
+            "round": 6
+        },
+        {
+            "opp": "CBR",
+            "round": 7
+        },
+        {
+            "opp": "NQC",
+            "round": 8
+        },
+        {
+            "opp": "BUL",
+            "round": 9
+        },
+        {
+            "opp": "NEW",
+            "round": 10
+        },
+        {
+            "opp": "CBR",
+            "round": 11
+        },
+        {
+            "opp": "MEL",
+            "round": 13
+        },
+        {
+            "opp": "BRO",
+            "round": 14
+        },
+        {
+            "opp": "MNL",
+            "round": 15
+        },
+        {
+            "opp": "PAR",
+            "round": 16
+        },
+        {
+            "opp": "NQC",
+            "round": 17
+        },
+        {
+            "opp": "BRO",
+            "round": 19
+        },
+        {
+            "opp": "WST",
+            "round": 20
+        },
+        {
+            "opp": "NZL",
+            "round": 21
+        },
+        {
+            "opp": "PTH",
+            "round": 22
+        },
+        {
+            "opp": "STH",
+            "round": 23
+        },
+        {
+            "opp": "SHA",
+            "round": 24
+        },
+        {
+            "opp": "NZL",
+            "round": 25
+        },
+        {
+            "opp": "DOL",
+            "round": 26
+        },
+        {
+            "opp": "WST",
+            "round": 27
+        }
+    ],
+    "MEL": [
+        {
+            "opp": "PAR",
+            "round": 1
+        },
+        {
+            "opp": "PTH",
+            "round": 3
+        },
+        {
+            "opp": "STG",
+            "round": 4
+        },
+        {
+            "opp": "MNL",
+            "round": 5
+        },
+        {
+            "opp": "NZL",
+            "round": 6
+        },
+        {
+            "opp": "DOL",
+            "round": 7
+        },
+        {
+            "opp": "STH",
+            "round": 8
+        },
+        {
+            "opp": "CBR",
+            "round": 9
+        },
+        {
+            "opp": "WST",
+            "round": 10
+        },
+        {
+            "opp": "SHA",
+            "round": 11
+        },
+        {
+            "opp": "GCT",
+            "round": 13
+        },
+        {
+            "opp": "NQC",
+            "round": 14
+        },
+        {
+            "opp": "STH",
+            "round": 16
+        },
+        {
+            "opp": "SHA",
+            "round": 17
+        },
+        {
+            "opp": "NQC",
+            "round": 18
+        },
+        {
+            "opp": "NEW",
+            "round": 19
+        },
+        {
+            "opp": "MNL",
+            "round": 20
+        },
+        {
+            "opp": "SYD",
+            "round": 21
+        },
+        {
+            "opp": "PAR",
+            "round": 22
+        },
+        {
+            "opp": "BRO",
+            "round": 23
+        },
+        {
+            "opp": "PTH",
+            "round": 24
+        },
+        {
+            "opp": "BUL",
+            "round": 25
+        },
+        {
+            "opp": "SYD",
+            "round": 26
+        },
+        {
+            "opp": "BRO",
+            "round": 27
+        }
+    ],
+    "MNL": [
+        {
+            "opp": "NQC",
+            "round": 1
+        },
+        {
+            "opp": "NZL",
+            "round": 2
+        },
+        {
+            "opp": "CBR",
+            "round": 3
+        },
+        {
+            "opp": "PAR",
+            "round": 4
+        },
+        {
+            "opp": "MEL",
+            "round": 5
+        },
+        {
+            "opp": "SHA",
+            "round": 6
+        },
+        {
+            "opp": "STG",
+            "round": 7
+        },
+        {
+            "opp": "PTH",
+            "round": 8
+        },
+        {
+            "opp": "SHA",
+            "round": 10
+        },
+        {
+            "opp": "NQC",
+            "round": 11
+        },
+        {
+            "opp": "PAR",
+            "round": 12
+        },
+        {
+            "opp": "BRO",
+            "round": 13
+        },
+        {
+            "opp": "NEW",
+            "round": 14
+        },
+        {
+            "opp": "GCT",
+            "round": 15
+        },
+        {
+            "opp": "WST",
+            "round": 17
+        },
+        {
+            "opp": "STH",
+            "round": 18
+        },
+        {
+            "opp": "MEL",
+            "round": 20
+        },
+        {
+            "opp": "BUL",
+            "round": 21
+        },
+        {
+            "opp": "SYD",
+            "round": 22
+        },
+        {
+            "opp": "CBR",
+            "round": 23
+        },
+        {
+            "opp": "WST",
+            "round": 24
+        },
+        {
+            "opp": "DOL",
+            "round": 25
+        },
+        {
+            "opp": "STG",
+            "round": 26
+        },
+        {
+            "opp": "NZL",
+            "round": 27
+        }
+    ],
+    "NEW": [
+        {
+            "opp": "WST",
+            "round": 1
+        },
+        {
+            "opp": "DOL",
+            "round": 2
+        },
+        {
+            "opp": "GCT",
+            "round": 3
+        },
+        {
+            "opp": "BUL",
+            "round": 5
+        },
+        {
+            "opp": "WST",
+            "round": 6
+        },
+        {
+            "opp": "SHA",
+            "round": 7
+        },
+        {
+            "opp": "NZL",
+            "round": 8
+        },
+        {
+            "opp": "STH",
+            "round": 9
+        },
+        {
+            "opp": "GCT",
+            "round": 10
+        },
+        {
+            "opp": "PAR",
+            "round": 11
+        },
+        {
+            "opp": "PTH",
+            "round": 12
+        },
+        {
+            "opp": "STG",
+            "round": 13
+        },
+        {
+            "opp": "MNL",
+            "round": 14
+        },
+        {
+            "opp": "SYD",
+            "round": 15
+        },
+        {
+            "opp": "DOL",
+            "round": 16
+        },
+        {
+            "opp": "CBR",
+            "round": 17
+        },
+        {
+            "opp": "MEL",
+            "round": 19
+        },
+        {
+            "opp": "NZL",
+            "round": 20
+        },
+        {
+            "opp": "CBR",
+            "round": 21
+        },
+        {
+            "opp": "PTH",
+            "round": 23
+        },
+        {
+            "opp": "NQC",
+            "round": 24
+        },
+        {
+            "opp": "BRO",
+            "round": 25
+        },
+        {
+            "opp": "SHA",
+            "round": 26
+        },
+        {
+            "opp": "PAR",
+            "round": 27
+        }
+    ],
+    "NQC": [
+        {
+            "opp": "MNL",
+            "round": 1
+        },
+        {
+            "opp": "SHA",
+            "round": 2
+        },
+        {
+            "opp": "BRO",
+            "round": 3
+        },
+        {
+            "opp": "CBR",
+            "round": 4
+        },
+        {
+            "opp": "PTH",
+            "round": 5
+        },
+        {
+            "opp": "STH",
+            "round": 6
+        },
+        {
+            "opp": "GCT",
+            "round": 8
+        },
+        {
+            "opp": "NZL",
+            "round": 9
+        },
+        {
+            "opp": "PTH",
+            "round": 10
+        },
+        {
+            "opp": "MNL",
+            "round": 11
+        },
+        {
+            "opp": "WST",
+            "round": 13
+        },
+        {
+            "opp": "MEL",
+            "round": 14
+        },
+        {
+            "opp": "DOL",
+            "round": 15
+        },
+        {
+            "opp": "SYD",
+            "round": 16
+        },
+        {
+            "opp": "GCT",
+            "round": 17
+        },
+        {
+            "opp": "MEL",
+            "round": 18
+        },
+        {
+            "opp": "BUL",
+            "round": 19
+        },
+        {
+            "opp": "DOL",
+            "round": 20
+        },
+        {
+            "opp": "STG",
+            "round": 21
+        },
+        {
+            "opp": "SHA",
+            "round": 22
+        },
+        {
+            "opp": "PAR",
+            "round": 23
+        },
+        {
+            "opp": "NEW",
+            "round": 24
+        },
+        {
+            "opp": "WST",
+            "round": 25
+        },
+        {
+            "opp": "BRO",
+            "round": 26
+        }
+    ],
+    "NZL": [
+        {
+            "opp": "CBR",
+            "round": 1
+        },
+        {
+            "opp": "MNL",
+            "round": 2
+        },
+        {
+            "opp": "SYD",
+            "round": 3
+        },
+        {
+            "opp": "WST",
+            "round": 4
+        },
+        {
+            "opp": "MEL",
+            "round": 6
+        },
+        {
+            "opp": "BRO",
+            "round": 7
+        },
+        {
+            "opp": "NEW",
+            "round": 8
+        },
+        {
+            "opp": "NQC",
+            "round": 9
+        },
+        {
+            "opp": "STG",
+            "round": 10
+        },
+        {
+            "opp": "DOL",
+            "round": 11
+        },
+        {
+            "opp": "CBR",
+            "round": 12
+        },
+        {
+            "opp": "STH",
+            "round": 13
+        },
+        {
+            "opp": "SHA",
+            "round": 14
+        },
+        {
+            "opp": "PTH",
+            "round": 16
+        },
+        {
+            "opp": "BRO",
+            "round": 17
+        },
+        {
+            "opp": "WST",
+            "round": 19
+        },
+        {
+            "opp": "NEW",
+            "round": 20
+        },
+        {
+            "opp": "GCT",
+            "round": 21
+        },
+        {
+            "opp": "DOL",
+            "round": 22
+        },
+        {
+            "opp": "BUL",
+            "round": 23
+        },
+        {
+            "opp": "STG",
+            "round": 24
+        },
+        {
+            "opp": "GCT",
+            "round": 25
+        },
+        {
+            "opp": "PAR",
+            "round": 26
+        },
+        {
+            "opp": "MNL",
+            "round": 27
+        }
+    ],
+    "PAR": [
+        {
+            "opp": "MEL",
+            "round": 1
+        },
+        {
+            "opp": "WST",
+            "round": 2
+        },
+        {
+            "opp": "BUL",
+            "round": 3
+        },
+        {
+            "opp": "MNL",
+            "round": 4
+        },
+        {
+            "opp": "STG",
+            "round": 5
+        },
+        {
+            "opp": "CBR",
+            "round": 6
+        },
+        {
+            "opp": "WST",
+            "round": 7
+        },
+        {
+            "opp": "SHA",
+            "round": 9
+        },
+        {
+            "opp": "DOL",
+            "round": 10
+        },
+        {
+            "opp": "NEW",
+            "round": 11
+        },
+        {
+            "opp": "MNL",
+            "round": 12
+        },
+        {
+            "opp": "PTH",
+            "round": 13
+        },
+        {
+            "opp": "BUL",
+            "round": 14
+        },
+        {
+            "opp": "GCT",
+            "round": 16
+        },
+        {
+            "opp": "STG",
+            "round": 17
+        },
+        {
+            "opp": "PTH",
+            "round": 19
+        },
+        {
+            "opp": "CBR",
+            "round": 20
+        },
+        {
+            "opp": "BRO",
+            "round": 21
+        },
+        {
+            "opp": "MEL",
+            "round": 22
+        },
+        {
+            "opp": "NQC",
+            "round": 23
+        },
+        {
+            "opp": "STH",
+            "round": 24
+        },
+        {
+            "opp": "SYD",
+            "round": 25
+        },
+        {
+            "opp": "NZL",
+            "round": 26
+        },
+        {
+            "opp": "NEW",
+            "round": 27
+        }
+    ],
+    "PTH": [
+        {
+            "opp": "SHA",
+            "round": 1
+        },
+        {
+            "opp": "SYD",
+            "round": 2
+        },
+        {
+            "opp": "MEL",
+            "round": 3
+        },
+        {
+            "opp": "STH",
+            "round": 4
+        },
+        {
+            "opp": "NQC",
+            "round": 5
+        },
+        {
+            "opp": "DOL",
+            "round": 6
+        },
+        {
+            "opp": "SYD",
+            "round": 7
+        },
+        {
+            "opp": "MNL",
+            "round": 8
+        },
+        {
+            "opp": "BRO",
+            "round": 9
+        },
+        {
+            "opp": "NQC",
+            "round": 10
+        },
+        {
+            "opp": "NEW",
+            "round": 12
+        },
+        {
+            "opp": "PAR",
+            "round": 13
+        },
+        {
+            "opp": "WST",
+            "round": 14
+        },
+        {
+            "opp": "NZL",
+            "round": 16
+        },
+        {
+            "opp": "BUL",
+            "round": 17
+        },
+        {
+            "opp": "PAR",
+            "round": 19
+        },
+        {
+            "opp": "STH",
+            "round": 20
+        },
+        {
+            "opp": "WST",
+            "round": 21
+        },
+        {
+            "opp": "GCT",
+            "round": 22
+        },
+        {
+            "opp": "NEW",
+            "round": 23
+        },
+        {
+            "opp": "MEL",
+            "round": 24
+        },
+        {
+            "opp": "CBR",
+            "round": 25
+        },
+        {
+            "opp": "BUL",
+            "round": 26
+        },
+        {
+            "opp": "STG",
+            "round": 27
+        }
+    ],
+    "SHA": [
+        {
+            "opp": "PTH",
+            "round": 1
+        },
+        {
+            "opp": "NQC",
+            "round": 2
+        },
+        {
+            "opp": "STH",
+            "round": 3
+        },
+        {
+            "opp": "BUL",
+            "round": 4
+        },
+        {
+            "opp": "CBR",
+            "round": 5
+        },
+        {
+            "opp": "MNL",
+            "round": 6
+        },
+        {
+            "opp": "NEW",
+            "round": 7
+        },
+        {
+            "opp": "WST",
+            "round": 8
+        },
+        {
+            "opp": "PAR",
+            "round": 9
+        },
+        {
+            "opp": "MNL",
+            "round": 10
+        },
+        {
+            "opp": "MEL",
+            "round": 11
+        },
+        {
+            "opp": "SYD",
+            "round": 12
+        },
+        {
+            "opp": "NZL",
+            "round": 14
+        },
+        {
+            "opp": "STG",
+            "round": 15
+        },
+        {
+            "opp": "BRO",
+            "round": 16
+        },
+        {
+            "opp": "MEL",
+            "round": 17
+        },
+        {
+            "opp": "DOL",
+            "round": 19
+        },
+        {
+            "opp": "SYD",
+            "round": 20
+        },
+        {
+            "opp": "STH",
+            "round": 21
+        },
+        {
+            "opp": "NQC",
+            "round": 22
+        },
+        {
+            "opp": "STG",
+            "round": 23
+        },
+        {
+            "opp": "GCT",
+            "round": 24
+        },
+        {
+            "opp": "NEW",
+            "round": 26
+        },
+        {
+            "opp": "BUL",
+            "round": 27
+        }
+    ],
+    "STG": [
+        {
+            "opp": "BUL",
+            "round": 1
+        },
+        {
+            "opp": "STH",
+            "round": 2
+        },
+        {
+            "opp": "MEL",
+            "round": 4
+        },
+        {
+            "opp": "PAR",
+            "round": 5
+        },
+        {
+            "opp": "GCT",
+            "round": 6
+        },
+        {
+            "opp": "MNL",
+            "round": 7
+        },
+        {
+            "opp": "SYD",
+            "round": 8
+        },
+        {
+            "opp": "WST",
+            "round": 9
+        },
+        {
+            "opp": "NZL",
+            "round": 10
+        },
+        {
+            "opp": "BRO",
+            "round": 11
+        },
+        {
+            "opp": "NEW",
+            "round": 13
+        },
+        {
+            "opp": "DOL",
+            "round": 14
+        },
+        {
+            "opp": "SHA",
+            "round": 15
+        },
+        {
+            "opp": "PAR",
+            "round": 17
+        },
+        {
+            "opp": "CBR",
+            "round": 18
+        },
+        {
+            "opp": "SYD",
+            "round": 19
+        },
+        {
+            "opp": "BUL",
+            "round": 20
+        },
+        {
+            "opp": "NQC",
+            "round": 21
+        },
+        {
+            "opp": "CBR",
+            "round": 22
+        },
+        {
+            "opp": "SHA",
+            "round": 23
+        },
+        {
+            "opp": "NZL",
+            "round": 24
+        },
+        {
+            "opp": "STH",
+            "round": 25
+        },
+        {
+            "opp": "MNL",
+            "round": 26
+        },
+        {
+            "opp": "PTH",
+            "round": 27
+        }
+    ],
+    "STH": [
+        {
+            "opp": "DOL",
+            "round": 1
+        },
+        {
+            "opp": "STG",
+            "round": 2
+        },
+        {
+            "opp": "SHA",
+            "round": 3
+        },
+        {
+            "opp": "PTH",
+            "round": 4
+        },
+        {
+            "opp": "SYD",
+            "round": 5
+        },
+        {
+            "opp": "NQC",
+            "round": 6
+        },
+        {
+            "opp": "BUL",
+            "round": 7
+        },
+        {
+            "opp": "MEL",
+            "round": 8
+        },
+        {
+            "opp": "NEW",
+            "round": 9
+        },
+        {
+            "opp": "BRO",
+            "round": 10
+        },
+        {
+            "opp": "WST",
+            "round": 11
+        },
+        {
+            "opp": "NZL",
+            "round": 13
+        },
+        {
+            "opp": "CBR",
+            "round": 14
+        },
+        {
+            "opp": "BUL",
+            "round": 15
+        },
+        {
+            "opp": "MEL",
+            "round": 16
+        },
+        {
+            "opp": "DOL",
+            "round": 17
+        },
+        {
+            "opp": "MNL",
+            "round": 18
+        },
+        {
+            "opp": "PTH",
+            "round": 20
+        },
+        {
+            "opp": "SHA",
+            "round": 21
+        },
+        {
+            "opp": "BRO",
+            "round": 22
+        },
+        {
+            "opp": "GCT",
+            "round": 23
+        },
+        {
+            "opp": "PAR",
+            "round": 24
+        },
+        {
+            "opp": "STG",
+            "round": 25
+        },
+        {
+            "opp": "SYD",
+            "round": 27
+        }
+    ],
+    "SYD": [
+        {
+            "opp": "BRO",
+            "round": 1
+        },
+        {
+            "opp": "PTH",
+            "round": 2
+        },
+        {
+            "opp": "NZL",
+            "round": 3
+        },
+        {
+            "opp": "GCT",
+            "round": 4
+        },
+        {
+            "opp": "STH",
+            "round": 5
+        },
+        {
+            "opp": "BRO",
+            "round": 6
+        },
+        {
+            "opp": "PTH",
+            "round": 7
+        },
+        {
+            "opp": "STG",
+            "round": 8
+        },
+        {
+            "opp": "DOL",
+            "round": 9
+        },
+        {
+            "opp": "BUL",
+            "round": 11
+        },
+        {
+            "opp": "SHA",
+            "round": 12
+        },
+        {
+            "opp": "CBR",
+            "round": 13
+        },
+        {
+            "opp": "NEW",
+            "round": 15
+        },
+        {
+            "opp": "NQC",
+            "round": 16
+        },
+        {
+            "opp": "WST",
+            "round": 18
+        },
+        {
+            "opp": "STG",
+            "round": 19
+        },
+        {
+            "opp": "SHA",
+            "round": 20
+        },
+        {
+            "opp": "MEL",
+            "round": 21
+        },
+        {
+            "opp": "MNL",
+            "round": 22
+        },
+        {
+            "opp": "DOL",
+            "round": 23
+        },
+        {
+            "opp": "BUL",
+            "round": 24
+        },
+        {
+            "opp": "PAR",
+            "round": 25
+        },
+        {
+            "opp": "MEL",
+            "round": 26
+        },
+        {
+            "opp": "STH",
+            "round": 27
+        }
+    ],
+    "WST": [
+        {
+            "opp": "NEW",
+            "round": 1
+        },
+        {
+            "opp": "PAR",
+            "round": 2
+        },
+        {
+            "opp": "DOL",
+            "round": 3
+        },
+        {
+            "opp": "NZL",
+            "round": 4
+        },
+        {
+            "opp": "BRO",
+            "round": 5
+        },
+        {
+            "opp": "NEW",
+            "round": 6
+        },
+        {
+            "opp": "PAR",
+            "round": 7
+        },
+        {
+            "opp": "SHA",
+            "round": 8
+        },
+        {
+            "opp": "STG",
+            "round": 9
+        },
+        {
+            "opp": "MEL",
+            "round": 10
+        },
+        {
+            "opp": "STH",
+            "round": 11
+        },
+        {
+            "opp": "NQC",
+            "round": 13
+        },
+        {
+            "opp": "PTH",
+            "round": 14
+        },
+        {
+            "opp": "CBR",
+            "round": 16
+        },
+        {
+            "opp": "MNL",
+            "round": 17
+        },
+        {
+            "opp": "SYD",
+            "round": 18
+        },
+        {
+            "opp": "NZL",
+            "round": 19
+        },
+        {
+            "opp": "GCT",
+            "round": 20
+        },
+        {
+            "opp": "PTH",
+            "round": 21
+        },
+        {
+            "opp": "BUL",
+            "round": 22
+        },
+        {
+            "opp": "MNL",
+            "round": 24
+        },
+        {
+            "opp": "NQC",
+            "round": 25
+        },
+        {
+            "opp": "CBR",
+            "round": 26
+        },
+        {
+            "opp": "GCT",
+            "round": 27
+        }
+    ]
+}
